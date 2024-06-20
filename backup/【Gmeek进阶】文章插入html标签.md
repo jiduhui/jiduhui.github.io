@@ -1,3 +1,5 @@
+https://github.com/Meekdai/Gmeek
+
 Github由于安全考虑，是不允许使用iframe等标签的，而且在issues插入的图片也会自动转换为github的地址。为了文章的多样性，在Gmeek的v2.19版本中添加了支持html标签的功能。
 
 使用方式
