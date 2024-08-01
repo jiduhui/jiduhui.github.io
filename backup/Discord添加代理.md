@@ -1,4 +1,4 @@
-教程：https://github.com/aiqinxuancai/discord-proxy
+教程：https://github.com/aiqinxuancai/discord-proxy/releases
 第一步：进入链接，下载文件
 ![QQ_1722507926424](https://github.com/user-attachments/assets/d82a9af9-9087-4f99-b329-e99367bb6966)
 第二步：解压所下载的x64文件，找到` version.dll `文件，复制
